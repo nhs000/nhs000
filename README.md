@@ -1,8 +1,9 @@
 ### Hi there 👋
-I’m currently working as Software Engineer at [MoMo E-wallet](https://momo.vn/) company.
+I'm currently working as a Software Engineer at the [MoMo E-wallet](https://momo.vn/) company.
 
-Mostly my jobs involves building infrastructure for ML models and applying software engineering best practices to our ML services.\
-Sometimes I also dive into modeling tasks, such as crafting recommendation services and user-friend scoring systems.
+My primary responsibilities involve building infrastructure for ML models and applying software engineering best practices to our ML services. \
+Occasionally, I also delve into modeling tasks, such as creating recommendation services and user-friendly scoring systems.
+
 
 🏷 Fun fact: I **do** use Emacs over Vim :).
 ## 🌐 Socials:
